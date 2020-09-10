@@ -6,5 +6,5 @@ For testing purposes, this allows auto-accepting unknown host keys:
 Do not use in production! The default would be RejectPolicy.  
 
 The scripts can be used to configure via ssh routers/ switches.  
-IPv4 addresses are given in a file (look at ip_addresses.txt)  
-Commands are given in a file (look at commands_file.txt)
+IPv4 addresses are given in a file (e.g ip_addresses.txt)  
+Commands are given in a file (e.g commands_file.txt)
